@@ -1,0 +1,3 @@
+Language: MIPs
+Des: I really forget the purposes of these mips code. and honestly, I can't find out what's their purpose just by reading them again.
+		However, these code do pass all the tests for the assignment. Thus, I believe they achieve the goal (whatever it was.)
